@@ -1,0 +1,14 @@
+.stepContainer {
+  min-height: 80px;
+  width: 275px;
+  background-color: #ebecf0;
+  border-radius: 4px;
+  padding: 8px;
+  margin: 4px;
+}
+
+.stepHeader {
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+}

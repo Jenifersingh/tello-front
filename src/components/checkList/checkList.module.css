@@ -1,0 +1,25 @@
+.checkBoxLabel {
+  margin-left: 12px;
+}
+
+.addItem {
+  height: 32px;
+  background-color: #091e420a;
+  margin-top: 20px;
+  border-radius: 4px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 20px;
+  font-weight: 500;
+  width: fit-content;
+}
+
+.addItem:hover {
+  background-color: rgba(9, 30, 66, 0.08);
+}
+
+.listCont {
+  margin-bottom: 15px;
+}

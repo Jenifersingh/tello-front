@@ -1,0 +1,24 @@
+.modalCont {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modalBody {
+  width: 70%;
+  background-color: #f4f5f7;
+  min-height: 60%;
+}
+
+.closeCont {
+  font-size: 30px;
+  padding: 20px;
+  text-align: right;
+  cursor: pointer;
+}

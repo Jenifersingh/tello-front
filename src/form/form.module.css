@@ -1,0 +1,48 @@
+.formTitle {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.formCont {
+  margin: 20px;
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
+
+.fieldTitle {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.textArea {
+  width: 95%;
+  min-height: 60px;
+}
+
+.OptionHead {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.buttonCont > div {
+  height: 32px;
+  background-color: #091e420a;
+  margin-top: 20px;
+  border-radius: 4px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding-left: 20px;
+  font-weight: 500;
+}
+
+.buttonCont > div:hover {
+  background-color: rgba(9, 30, 66, 0.08);
+}
+
+.fieldCont {
+  margin-bottom: 30px;
+}

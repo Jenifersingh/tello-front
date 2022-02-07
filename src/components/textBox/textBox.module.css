@@ -1,0 +1,21 @@
+.textBox {
+  width: 95%;
+  height: 35px;
+  margin-bottom: 10px;
+}
+
+.addButton {
+  padding: 12px;
+  border: 0;
+  background-color: #0079bf;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.fieldClose {
+  margin-left: 12px;
+  padding: 8px;
+  cursor: pointer;
+}
